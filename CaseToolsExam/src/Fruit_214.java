@@ -7,5 +7,10 @@ public class Fruit_214 {
 	{
 	this.color=color;
 	}
+	
+	String get_color()
+	{
+	return color;
+	}
 
 }
